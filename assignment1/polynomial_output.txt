@@ -1,0 +1,3 @@
+$506 lines loaded
+RMSE score:  6.308306521066214
+R-squared score:  0.5112919807602372
